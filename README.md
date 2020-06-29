@@ -1,1 +1,1 @@
-# nosubstitute.github.io
+# https://nosubstitute.github.io
